@@ -69,7 +69,7 @@ const MastersSection = () => {
                                 <h3 className="text-3xl font-bold mt-2">{featuredMaster.masterName} <span className="text-lg font-medium text-gray-400 ml-2">보유자</span></h3>
                                 <p className="text-secondary font-medium mt-1">{featuredMaster.heritageCategory}</p>
                             </div>
-                            <blockquote className="text-xl font-serif italic text-gray-700 leading-relaxed mb-8">
+                            <blockquote className="text-xl font-serif text-gray-700 leading-relaxed mb-8">
                                 "{featuredMaster.workshopName}에서 <br />
                                 수만 번의 손길을 거쳐 <br />
                                 비로소 하나의 혼이 탄생합니다."

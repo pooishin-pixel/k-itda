@@ -55,7 +55,7 @@ const ReservationPreview = () => {
                             Experience Booking
                         </h2>
                         <h3 className="text-4xl font-bold text-gray-900">
-                            전통을 직접 <span className="text-secondary italic">손끝으로</span>
+                            전통을 직접 <span className="text-secondary">손끝으로</span>
                         </h3>
                     </div>
 

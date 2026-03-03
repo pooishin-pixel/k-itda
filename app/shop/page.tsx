@@ -44,7 +44,7 @@ const ShopPage = () => {
                             <span className="text-[10px] font-black uppercase tracking-widest">Premium Selection</span>
                         </div>
                         <h1 className="text-5xl lg:text-7xl font-bold mb-6 leading-tight">
-                            장인의 <span className="text-secondary italic">숨결</span>이 <br />
+                            장인의 <span className="text-secondary">숨결</span>이 <br />
                             닿은 고귀한 물건
                         </h1>
                         <p className="text-gray-400 text-lg mb-10 max-w-lg leading-relaxed">
@@ -75,7 +75,7 @@ const ShopPage = () => {
                                 <p className="text-secondary text-xs font-bold mb-1 uppercase tracking-tighter">New Collection</p>
                                 <h3 className="text-xl font-bold">{featuredProduct.name}</h3>
                                 <div className="flex justify-between items-center mt-4">
-                                    <span className="text-xl font-black italic">₩{featuredProduct.price.toLocaleString()}</span>
+                                    <span className="text-xl font-black">₩{featuredProduct.price.toLocaleString()}</span>
                                     <button className="w-10 h-10 rounded-full bg-white text-black flex items-center justify-center hover:bg-secondary transition-colors">
                                         <ArrowUpRight size={20} />
                                     </button>
@@ -131,7 +131,7 @@ const ShopPage = () => {
                     <div className="flex items-end justify-between mb-12">
                         <div>
                             <span className="text-secondary font-black text-xs uppercase tracking-widest block mb-2">Heritage Store</span>
-                            <h2 className="text-3xl font-bold text-gray-900">우리 삶을 잇는 <span className="italic">전통의 가구</span></h2>
+                            <h2 className="text-3xl font-bold text-gray-900">우리 삶을 잇는 <span>전통의 가구</span></h2>
                         </div>
                         <span className="text-sm text-gray-400 font-medium">총 {filteredProducts.length}개의 작품</span>
                     </div>
@@ -248,7 +248,7 @@ const ShopPage = () => {
 
                     <div className="text-white">
                         <span className="text-secondary font-black text-xs uppercase tracking-widest mb-4 block">Quality & Trust</span>
-                        <h2 className="text-4xl lg:text-6xl font-bold mb-10 leading-tight">당신의 곁에 머무는 <br /><span className="text-secondary italic">진짜</span>의 가치</h2>
+                        <h2 className="text-4xl lg:text-6xl font-bold mb-10 leading-tight">당신의 곁에 머무는 <br /><span className="text-secondary">진짜</span>의 가치</h2>
 
                         <div className="space-y-10">
                             {[

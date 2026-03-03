@@ -50,7 +50,7 @@ const CurationSection = () => {
                         </h2>
                         <h3 className="text-3xl lg:text-5xl font-bold text-gray-900 leading-tight">
                             당신의 취향을 잇는 <br />
-                            <span className="text-primary italic font-serif">오늘의 발견</span>
+                            <span className="text-primary font-serif">오늘의 발견</span>
                         </h3>
                     </motion.div>
 
