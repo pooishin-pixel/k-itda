@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "종이 포장",
+        "category": "Gifts",
+        "price": 3000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202509/ef8017eeaa3944f54a56a4b747412c1b.jpg",
+        "description": "K-Heritage 정성이 담긴 종이 포장"
+    },
+    {
+        "id": 2,
+        "name": "조선왕실 와인마개",
+        "category": "Heritage",
+        "price": 32000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202504/e7b842283c621013707010a27ad500f1.jpg",
+        "description": "조선 왕실의 문양을 담은 품격 있는 와인 마개"
+    },
+    {
+        "id": 3,
+        "name": "갓, 시대를 잇는 한국의 멋 볼펜",
+        "category": "Stationery",
+        "price": 3500,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202510/19a23db06d6bd538c8f38a0d811f56c0.jpg",
+        "description": "전통 갓의 형태를 모티브로 한 세련된 볼펜"
+    },
+    {
+        "id": 4,
+        "name": "일월오봉도 볼펜세트",
+        "category": "Stationery",
+        "price": 8000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202109/a42b3f43499ee9e99ac5eb57df846fe5.jpg",
+        "description": "왕의 위엄을 상징하는 일월오봉도 디자인 볼펜 세트"
+    },
+    {
+        "id": 5,
+        "name": "십장생 수건 3종 세트",
+        "category": "Living",
+        "price": 39000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202404/b3b303f06a80cced603f979c00083859.jpg",
+        "description": "장수를 기원하는 십장생 문양이 수놓아진 프리미엄 수건 세트"
+    },
+    {
+        "id": 6,
+        "name": "전통 민화 자개 볼펜",
+        "category": "Stationery",
+        "price": 18000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202508/71d328e744095ceb102edf490c958334.jpg",
+        "description": "영롱한 자개와 전통 민화가 어우러진 고급 볼펜"
+    },
+    {
+        "id": 7,
+        "name": "조선왕실 사각등 (완제품)",
+        "category": "Heritage",
+        "price": 40000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202512/c441a36c3854a1175a51de533808ab33.jpg",
+        "description": "밤을 밝히는 은은한 빛, 조선 왕실 사각등 완제품"
+    },
+    {
+        "id": 8,
+        "name": "나전칠기 책갈피",
+        "category": "Stationery",
+        "price": 10000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202210/c65888b1812ed8cc7492299030927e77.jpg",
+        "description": "전통 나전칠기 기법으로 제작된 독창적인 책갈피"
+    },
+    {
+        "id": 9,
+        "name": "전통 갓 키링",
+        "category": "Fashion",
+        "price": 15500,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202508/76f71f523fa9bad965007a1616291bd7.png",
+        "description": "일상에 한국적 감각을 더하는 미니 갓 키링"
+    },
+    {
+        "id": 10,
+        "name": "곤룡포 실내용 슬리퍼",
+        "category": "Living",
+        "price": 20000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202509/88dfdcc938150bacc2c396f3c4c22063.jpg",
+        "description": "왕의 예복 곤룡포의 자수를 담은 편안한 실내 슬리퍼"
+    },
+    {
+        "id": 11,
+        "name": "액막이 북어 마그넷 키링",
+        "category": "Fashion",
+        "price": 18000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202509/4e8959ea4f114f785a33bae684cc26f3.png",
+        "description": "액운을 막아주는 북어 문양의 위트 있는 마그넷 키링"
+    },
+    {
+        "id": 12,
+        "name": "누빔 손가방",
+        "category": "Fashion",
+        "price": 29000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202502/d6cd63ce1ba010738a4e319143ac3020.jpg",
+        "description": "포근한 누빔 소재에 한국의 선을 담은 데일리 손가방"
+    },
+    {
+        "id": 13,
+        "name": "대한제국 트럼프카드",
+        "category": "Stationery",
+        "price": 19000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202210/ba70a0224565d6bfb25a14c6a8972cf2.jpg",
+        "description": "대한제국 황실의 문양과 인물을 담은 희소가치 있는 카드"
+    },
+    {
+        "id": 14,
+        "name": "나전 휴대용 손톱깎이 세트",
+        "category": "Gifts",
+        "price": 23000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202508/d6a3785f9a26a6032e4eda3d9b414bb9.jpg",
+        "description": "실용성과 예술성을 모두 잡은 나전 장식 손톱깎이 세트"
+    },
+    {
+        "id": 15,
+        "name": "곤룡포잔 투명 머그",
+        "category": "Living",
+        "price": 20000,
+        "imageUrl": "https://www.khmall.or.kr/web/product/medium/202209/5860099c8d2c09fa8cfa4dd6319fc188.jpg",
+        "description": "투명한 유리잔에 담긴 곤룡포의 화려함"
+    }
+]
