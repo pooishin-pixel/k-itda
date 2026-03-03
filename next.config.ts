@@ -7,6 +7,14 @@ const nextConfig: NextConfig = {
         protocol: 'https',
         hostname: 'www.khmall.or.kr',
       },
+      {
+        protocol: 'https',
+        hostname: 'support.nihc.go.kr',
+      },
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+      },
     ],
   },
 };
